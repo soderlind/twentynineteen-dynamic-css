@@ -1,0 +1,3 @@
+[submodule "wp-dynamic-css"]
+	path = wp-dynamic-css
+	url = https://github.com/askupasoftware/wp-dynamic-css.git
